@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 
 class IntroductionScreen extends StatelessWidget {
@@ -74,6 +76,14 @@ class IntroductionScreen extends StatelessWidget {
 
                 Text(
                   'Nội dung bài tập',
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+
+                Text(
+                  'Link Github: https://github.com/QDat18/Lab4_Flutter_HoangQuangDat.git',
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,

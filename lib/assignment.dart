@@ -1,3 +1,9 @@
+// ASSM1 - Flutter UI Fundamentals
+// Họ và tên: Hoàng Quang Đạt
+// Mã sinh viên: 26A4040725
+// Lớp: K26CNTTA
+// GitHub: https://github.com/QDat18/Lab4_Flutter_HoangQuangDat.git
+
 import 'package:flutter/material.dart';
 
 void main() {
